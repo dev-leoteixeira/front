@@ -1,0 +1,51 @@
+{
+  "beauty": [
+    {
+      "id": 1,
+      "title": "Batata Inglesa",
+      "description": "A batata inglesa é uma fonte de carotenoides e flavonoides, compostos que possuem propriedades antioxidantes e anti-inflamatórias. Esses componentes auxiliam na prevenção do câncer, pois combatem o excesso de radicais livres, os quais são os principais responsáveis pelos danos às células saudáveis do organismo",
+      "price": 0.79,
+      "rating": 4.8,
+      "brand": "Nacional",
+      "category": "Legume",
+      "image": [ "https://cdn.pixabay.com/photo/2016/08/11/08/49/potatoes-1585075_1280.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Cenoura",
+      "description": "A cenoura é uma raiz que traz benefícios para a saúde como prevenir o envelhecimento, câncer, proteger a visão e manter o bronzeado. Conhecida por conter uma grande quantidade de vitamina A, a cenoura é considerada um ótimo alimento funcional e proporciona diversos benefícios para a saúde.",
+      "price": 0.95,
+      "rating": 4.8,
+      "brand": "Nacional",
+      "category": "Legume",
+      "image": [
+        "https://cdn.pixabay.com/photo/2015/03/14/14/00/carrots-673184_1280.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Maça",
+      "description": "A maçã é uma excelente fonte de pectina. A pectina é uma fibra solúvel que ajuda a prevenir doenças cardiovasculares, a reduzir o colesterol e a combater a prisão de ventre.",
+      "price": 0.79,
+      "rating": 4.5,
+      "brand": "Nacional",
+      "category": "Fruta",
+      "image": [
+        "https://cdn.pixabay.com/photo/2016/07/09/12/16/apples-1506119_1280.jpg"
+      ]
+    },
+     {
+      "id": 4,
+      "title": "Pêra",
+      "description": "Por conter flavonoides, tais como a luteína e a zeaxantina, além das vitaminas A, C e K e ácido clorogênico, o consumo da fruta diminui as inflamações das células, além de prevenir o envelhecimento precoce.",
+      "price": 0.89,
+      "rating": 4.8,
+      "brand": "Nacional",
+      "category": "Fruta",
+      "image": [
+        "https://cdn.pixabay.com/photo/2016/07/22/09/59/fruits-1534494_1280.jpg"
+      ]
+    }
+  ]
+}
